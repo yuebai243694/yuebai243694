@@ -1,16 +1,15 @@
-## Hi there 👋
+自我介绍
 
-<!--
-**yuebai243694/yuebai243694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是福州大学计算机与大数据学院的一名大三年级学生，专业方向为计算机科学与技术中的计算机系统结构。个人对于计算机系统工作原理、结构较为感兴趣，其中以硬件系统为更优先，相信未来计算机系统越发精细巧妙，为生活便利创造更多的方式。
 
-Here are some ideas to get you started:
+专业技能和知识
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+基本掌握C，汇编等编程语言。了解计算机一些常见硬件中的结构和工作原理。
+
+自我评估
+
+在软件开发上，编程语言运用不够熟练，经验不足；一些硬件的操作系统开发不够了解。总体来说，专业方向上的应用需求无法完全满足；希望这些不足在未来的学习和实践中能够得以补足。
+
+规划
+
+在未来三年中，补足专业上的生活应用需求实践以后，走上工作岗位。
